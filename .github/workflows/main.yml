@@ -27,4 +27,4 @@ jobs:
       - name: Run Python script
         env:
           NEW: ${{ secrets.NEW }}
-        run: python BOODN2.py
+        run: python BOODN3.py
