@@ -19,12 +19,16 @@ URLS = [
       "https://chartink.com/screener/copy-bearish-maribozu-337",
       "https://chartink.com/screener/agp-bearong-2",
       "https://chartink.com/screener/shesha-bearish1",
+      "https://chartink.com/screener/agp-shesha-bearish-2",
       "https://chartink.com/screener/copy-f-o-weak-stocks-2",
       "https://chartink.com/screener/svp2-closing-3-up-since-3-days",
       "https://chartink.com/screener/copy-copy-how-to-find-future-and-option-stocks-buy-entry-future-3",
       "https://chartink.com/screener/copy-stocks-in-downtrend-1959",
       "https://chartink.com/screener/copy-weekly-bollinger-sell-3",
-      "https://chartink.com/screener/copy-sell-blast-5"
+      "https://chartink.com/screener/copy-bearish-rsi-stoc-1215",
+      "https://chartink.com/screener/copy-sell-blast-5",
+      "https://chartink.com/screener/sell-bollinger-band-weekly-15",
+      "https://chartink.com/screener/copy-perfect-bearish-3537"
       ]
        
 sheet_id = "1izRR4TPzgKx0kVOCFHs_Z_kngWBzrGH7G-ZOE-zSjx8"
