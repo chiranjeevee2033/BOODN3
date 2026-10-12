@@ -5,30 +5,15 @@ import google_sheets
 import time
 
 URLS = [
-      "https://chartink.com/screener/copy-f-0-future",
-      "https://chartink.com/screener/copy-copy-future-and-options-2-1-4",
-      "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
-      "https://chartink.com/screener/50-sreelakshmi-guruvayoorappan-b-atr-volume-rocket",
-      "https://chartink.com/screener/copy-copy-nks-future-trick-bb-part-2-21",
-      "https://chartink.com/screener/fut-hammar-cash-low-paradaily",
-      "https://chartink.com/screener/copy-bearish-kicker-with-momentum-stbt-futures-58",
-      "https://chartink.com/screener/new-11111sjbl1fut-rocket",
-      "https://chartink.com/screener/50-bearish-maribozu",
-      "https://chartink.com/screener/copy-chanakya-bearish-scanner-working-2803",
-      "https://chartink.com/screener/copy-bearish-engulifing-see-after-3-15-pm-for-next-day-trade-5168",
-      "https://chartink.com/screener/copy-bearish-maribozu-337",
-      "https://chartink.com/screener/agp-bearong-2",
-      "https://chartink.com/screener/shesha-bearish1",
-      "https://chartink.com/screener/agp-shesha-bearish-2",
-      "https://chartink.com/screener/copy-f-o-weak-stocks-2",
-      "https://chartink.com/screener/svp2-closing-3-up-since-3-days",
-      "https://chartink.com/screener/copy-copy-how-to-find-future-and-option-stocks-buy-entry-future-3",
-      "https://chartink.com/screener/copy-stocks-in-downtrend-1959",
-      "https://chartink.com/screener/copy-weekly-bollinger-sell-3",
-      "https://chartink.com/screener/copy-bearish-rsi-stoc-1215",
-      "https://chartink.com/screener/copy-sell-blast-5",
-      "https://chartink.com/screener/sell-bollinger-band-weekly-15",
-      "https://chartink.com/screener/copy-perfect-bearish-3537"
+        "https://chartink.com/screener/bl3-average-directional-index-adx",
+  	  "https://chartink.com/screener/bl2-buyrank2-monthly-ichimoku-cloud-cross-2",
+	  "https://chartink.com/screener/custom-buyrank2-2",
+	  "https://chartink.com/screener/snl6",
+	  "https://chartink.com/screener/bl1buyrank1-monthly-weekly-daily-rsi-above-60",
+	  "https://chartink.com/screener/s10bullish-for-next-day",
+	  "https://chartink.com/screener/copy-stocks-for-f-0",
+	  "https://chartink.com/screener/1-longtrend-ve",
+	  "https://chartink.com/screener/1a-longtrend-ve-2"
       ]
        
 sheet_id = "1izRR4TPzgKx0kVOCFHs_Z_kngWBzrGH7G-ZOE-zSjx8"
